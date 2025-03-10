@@ -1,4 +1,111 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="" tvg-name="Tres Chiflados 1" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6de436686e71fed182d09ac510d018807a939d7a565b8f7fa672e13938e712d4.jpg" group-title="24/7 RETRO",Tres Chiflados 1
+http://170.39.192.130:2095/56942505562play/060123play/306240
+#EXTINF:-1. tvg-id="" tvg-name="Tres chiflados 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6de436686e71fed182d09ac510d018807a939d7a565b8f7fa672e13938e712d4.jpg" group-title="24/7 RETRO",Tres chiflados 2
+http://170.39.192.130:2095/56942505562play/060123play/306241
+#EXTINF:-1, tvg-id="" tvg-name="V Invasion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1Mzk1NjQyM15BMl5BanBnXkFtZTgwNjY2NDI1MDE@._V1_.jpg" group-title="24/7 RETRO",V Invasion
+http://170.39.192.130:2095/56942505562play/060123play/306242
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Euphoria (S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Euphoria (S)
+http://170.39.192.130:2095/56942505562play/060123play/306095
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Juego de tronos (S)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Juego de tronos (S)
+http://170.39.192.130:2095/56942505562play/060123play/306096
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Succesion" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY5YjA3ZDgtM2EwYy00ZGVmLWFhNWItMTMxMWRkMWFiOTlkXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Succesion
+http://170.39.192.130:2095/56942505562play/060123play/306097
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Almas de metal" tvg-logo="https://image.tmdb.org/t/p/original/vuHio29QKfc27jnsvxyXRtH12QF.jpg" group-title="24/7 SERIES APPS",24/7 Almas de metal
+http://170.39.192.130:2095/56942505562play/060123play/306098
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Sopranos" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZkMWVkNTEtYzMxMC00MzQzLTg5NjUtNTNmN2M2NzEwNzI0XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Sopranos
+http://170.39.192.130:2095/56942505562play/060123play/306099
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Barry" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY5NzNlMWItMmFiYy00NjU1LWFhYTAtOWNhYjI2NDViNTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Barry
+http://170.39.192.130:2095/56942505562play/060123play/306100
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El imperio del contrabando" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNhODE1M2YtMjFmMC00YTliLThhNDktMzI0MjljMzI3NDVjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 El imperio del contrabando
+http://170.39.192.130:2095/56942505562play/060123play/306101
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Frena tu entusiasmo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY1ZGM4OGItMWMyNS00MDAyLWE2Y2MtZTFhMTU0MGI5ZDFlXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Frena tu entusiasmo
+http://170.39.192.130:2095/56942505562play/060123play/306102
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI1YjMzYmYtNjIyYy00ZGM2LTlmNzEtY2UxNjQ3OTU1NTM0XkEyXkFqcGdeQXVyMTcxMzgzMjkx._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Stranger Things
+http://170.39.192.130:2095/56942505562play/060123play/306105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 La casa de papel
+http://170.39.192.130:2095/56942505562play/060123play/306106
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The witcher" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The witcher
+http://170.39.192.130:2095/56942505562play/060123play/306107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black mirror" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgyNTBkNzctN2I3NC00NTA1LWJiMDMtYzA2MmYyZjc1NWQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Black mirror
+http://170.39.192.130:2095/56942505562play/060123play/306108
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 Narcos
+http://170.39.192.130:2095/56942505562play/060123play/306109
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The witcher" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The witcher
+http://170.39.192.130:2095/56942505562play/060123play/306110
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mindhunter" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 Mindhunter
+http://170.39.192.130:2095/56942505562play/060123play/306111
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra kai" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTI3NjcxNjctNzZhZS00NjQwLTg4NDEtMmQzOGJiYTUwNWFjXkEyXkFqcGdeQXVyOTA5NzQ0MDQ@._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Cobra kai
+http://170.39.192.130:2095/56942505562play/060123play/306112
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ozark" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUxMWNlMTUtYTljZS00MTE0LTlkYjktOTU1ODZjYzBhMTk0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Ozark
+http://170.39.192.130:2095/56942505562play/060123play/306113
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The umbrella" tvg-logo="https://image.tmdb.org/t/p/original/ahXjWmvjeYrxfTqdA6pF0n3TmDR.jpg" group-title="24/7 SERIES APPS",24/7 The umbrella
+http://170.39.192.130:2095/56942505562play/060123play/306114
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ted lasso" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Ted lasso
+http://170.39.192.130:2095/56942505562play/060123play/306117
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dickinson" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczZjc1NzctNmNlNy00ZWJkLThjOTUtNDkyMWMyNGYzYTgwXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Dickinson
+http://170.39.192.130:2095/56942505562play/060123play/306118
+#EXTINF:-1 tvg-id="" tvg-name="24/7 For all mankind" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNhY2U5ZTMtYTRjNS00MWRlLThmOTUtNTBlNDUyYWUyMTZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 For all mankind
+http://170.39.192.130:2095/56942505562play/060123play/306119
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Foundation" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgxNTExNjktN2VmNS00MWM0LWI3ZjYtNjlhZGIyYTM0YjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Foundation
+http://170.39.192.130:2095/56942505562play/060123play/306120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Servant" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNiOWE4Y2YtMDZiOS00OGFlLWIyN2QtYjA0MmFlOWY0NDRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Servant
+http://170.39.192.130:2095/56942505562play/060123play/306121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The morning show" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdmMTVhNGYtOGFhOC00NGVkLTkzYTQtNWYxNTE1ZjQxNmNjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The morning show
+http://170.39.192.130:2095/56942505562play/060123play/306122
+#EXTINF:-1,tvg-id="" tvg-name="24/7 Truth be told" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM2ZTYxZjUtYmY3Yi00NjhhLTgwNWMtYmYyODVkZTU0ZGJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Truth be told
+http://170.39.192.130:2095/56942505562play/060123play/306123
+#EXTINF:-1 tvg-id="" tvg-name="Dbz 2" tvg-logo="https://depor.com/resizer/H6AzCzzkDYj_cNjXuilV5CrYLdA=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/H3Q6XLEKFBE2NKM5LHAR4QVMFU.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz 2
+http://170.39.192.130:2095/56942505562play/060123play/306182
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Freezer" tvg-logo="https://image.tmdb.org/t/p/original/3bcvSMybffh380rvycwO77YNetl.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Freezer
+http://170.39.192.130:2095/56942505562play/060123play/306183
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Garlick" tvg-logo="https://image.tmdb.org/t/p/original/cOog73ANjkMb6Lhccxthl9zxUAQ.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Garlick
+http://170.39.192.130:2095/56942505562play/060123play/306184
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Gt" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe" group-title="24/7 ZONA DRAGON BALL",Dbz Gt
+http://170.39.192.130:2095/56942505562play/060123play/306185
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Heroes" tvg-logo="https://media.themoviedb.org/t/p/w500/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Heroes
+http://170.39.192.130:2095/56942505562play/060123play/306186
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Kai" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWIxZGE4NjYtYjhjMi00NWM1LTkwOWYtZTZkOTVlYmY2MTRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Kai
+http://170.39.192.130:2095/56942505562play/060123play/306187
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Cell" tvg-logo="https://image.tmdb.org/t/p/w500/aPkV23fI6qBeAJqyGeK0mTLSGY0.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Cell
+http://170.39.192.130:2095/56942505562play/060123play/306188
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Majin Boo" tvg-logo="https://image.tmdb.org/t/p/w500/AksanoqLDDqpr615GU037m0zSKV.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Majin Boo
+http://170.39.192.130:2095/56942505562play/060123play/306189
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Saga Sayayin" tvg-logo="https://image.tmdb.org/t/p/w500/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Sayayin
+http://170.39.192.130:2095/56942505562play/060123play/306190
+#EXTINF:-1 tvg-id="" tvg-name="Dbz Super" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Super
+http://170.39.192.130:2095/56942505562play/060123play/306191
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" group-title="24/7 ZONA DRAGON BALL",Dragon Ball
+http://170.39.192.130:2095/56942505562play/060123play/306192
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson T0" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",Los Simpson T0
+http://170.39.192.130:2095/56942505562play/060123play/306245
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T1" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T1
+http://170.39.192.130:2095/56942505562play/060123play/306246
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T2
+http://170.39.192.130:2095/56942505562play/060123play/306247
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T3
+http://170.39.192.130:2095/56942505562play/060123play/306248
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T4" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T4
+http://170.39.192.130:2095/56942505562play/060123play/306249
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T5" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T5
+http://170.39.192.130:2095/56942505562play/060123play/306250
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T6" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T6
+http://170.39.192.130:2095/56942505562play/060123play/306251
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T7" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T7
+http://170.39.192.130:2095/56942505562play/060123play/306252
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T8" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T8
+http://170.39.192.130:2095/56942505562play/060123play/306253
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T2
+http://170.39.192.130:2095/56942505562play/060123play/306254
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T3
+http://170.39.192.130:2095/56942505562play/060123play/306255
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T4" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T4
+http://170.39.192.130:2095/56942505562play/060123play/306256
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T5" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T5
+http://170.39.192.130:2095/56942505562play/060123play/306257
+#EXTINF:-1,tvg-id="" tvg-name="The Simpsons T6" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T6
+http://170.39.192.130:2095/56942505562play/060123play/306258
+
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion
 http://premierchile.shop:8080/991387621tv2/gn65g2/54682
 #EXTINF:-1 tvg-id="" tvg-name="LA..Cine Accion HD" tvg-logo="" group-title="→ CINE 24/7 ←",LA..Cine Accion HD
