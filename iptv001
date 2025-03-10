@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 La casa de papel
+http://170.39.192.130:2095/56942505562play/060123play/306106
+#EXTINF:-1, tvg-id="" tvg-name="24/7 The witcher" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The witcher
+http://170.39.192.130:2095/56942505562play/060123play/306107
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Black mirror" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgyNTBkNzctN2I3NC00NTA1LWJiMDMtYzA2MmYyZjc1NWQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Black mirror
+http://170.39.192.130:2095/56942505562play/060123play/306108
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Narcos" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 Narcos
+http://170.39.192.130:2095/56942505562play/060123play/306109
+#EXTINF:-1, tvg-id="" tvg-name="24/7 The witcher" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The witcher
+http://170.39.192.130:2095/56942505562play/060123play/306110
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Mindhunter" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 Mindhunter
+http://170.39.192.130:2095/56942505562play/060123play/306111
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Cobra kai" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTI3NjcxNjctNzZhZS00NjQwLTg4NDEtMmQzOGJiYTUwNWFjXkEyXkFqcGdeQXVyOTA5NzQ0MDQ@._V1_.jpg" group-title="24/7 SERIES APPS",24/7 Cobra kai
+http://170.39.192.130:2095/56942505562play/060123play/306112
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Ozark" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUxMWNlMTUtYTljZS00MTE0LTlkYjktOTU1ODZjYzBhMTk0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Ozark
+http://170.39.192.130:2095/56942505562play/060123play/306113
+#EXTINF:-1, tvg-id="" tvg-name="24/7 The umbrella" tvg-logo="https://image.tmdb.org/t/p/original/ahXjWmvjeYrxfTqdA6pF0n3TmDR.jpg" group-title="24/7 SERIES APPS",24/7 The umbrella
+http://170.39.192.130:2095/56942505562play/060123play/306114
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Ted lasso" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Ted lasso
+http://170.39.192.130:2095/56942505562play/060123play/306117
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Dickinson" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczZjc1NzctNmNlNy00ZWJkLThjOTUtNDkyMWMyNGYzYTgwXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Dickinson
+http://170.39.192.130:2095/56942505562play/060123play/306118
+#EXTINF:-1, tvg-id="" tvg-name="24/7 For all mankind" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNhY2U5ZTMtYTRjNS00MWRlLThmOTUtNTBlNDUyYWUyMTZkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="24/7 SERIES APPS",24/7 For all mankind
+http://170.39.192.130:2095/56942505562play/060123play/306119
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Foundation" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgxNTExNjktN2VmNS00MWM0LWI3ZjYtNjlhZGIyYTM0YjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Foundation
+http://170.39.192.130:2095/56942505562play/060123play/306120
+#EXTINF:-1, tvg-id="" tvg-name="24/7 Servant" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNiOWE4Y2YtMDZiOS00OGFlLWIyN2QtYjA0MmFlOWY0NDRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Servant
+http://170.39.192.130:2095/56942505562play/060123play/306121
+#EXTINF:-1, tvg-id="" tvg-name="24/7 The morning show" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdmMTVhNGYtOGFhOC00NGVkLTkzYTQtNWYxNTE1ZjQxNmNjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 The morning show
+http://170.39.192.130:2095/56942505562play/060123play/306122
+#EXTINF:-1,tvg-id="" tvg-name="24/7 Truth be told" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM2ZTYxZjUtYmY3Yi00NjhhLTgwNWMtYmYyODVkZTU0ZGJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 SERIES APPS",24/7 Truth be told
+http://170.39.192.130:2095/56942505562play/060123play/306123
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Animaniacs
 http://170.39.192.130:2095/56942505562play/060123play/306126
 #EXTINF:-1, tvg-id="" tvg-name="24/7 Animaniacs 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Animaniacs 2
